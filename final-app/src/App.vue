@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <b-navbar class='row align-items-center col-sm-12' id="nav" fixed='top'>
-      <h4 class='col-sm-2 mt-1'>Crashers</h4>
+      <h4 class='col-sm-2 mt-1'>Crushers</h4>
       <router-link id='navrl' class='col-sm-1 offset-sm-6' style="text-decoration: none;" to="/member">Members </router-link>
       <a id='nava' class='col-sm-1' style="text-decoration: none;" href='https://github.com/DSCI-554/project-the-crashers' target="_blank">Github</a>
       <b-nav-item-dropdown id='dropdown' class='col-sm-1' text='Move to' toggle-class="nav-link-custom" aria-labelledby="dropdownMenuButton">
