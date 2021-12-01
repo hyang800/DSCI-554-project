@@ -5,7 +5,7 @@
     <svg id="linechart2" width='100' height='50'></svg>
   </div>
   <div class='col-sm-4 offset-sm-1'>
-    <h1>D3 responsive chart</h1>
+    <h1>Responsive chart</h1>
     <p class='text-left'>Explore and compare the average income values over the five years of data for individuals with and without disabilities as well as the average income for their geographical area.</p>
   </div>
 </div>
