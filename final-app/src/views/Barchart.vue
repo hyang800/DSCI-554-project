@@ -15,7 +15,7 @@
     <button id='b6' class='xbutton'>30</button>
   </div>
   <div class='col-sm-4 offset-sm-1'>
-    <h1>D3 Line chart
+    <h1>D3 Bar chart
     <br><br>
     <p class='text-left'>Compare the disabled employment statuses with values to those without a reported disability.
       <br>0 – N/A
