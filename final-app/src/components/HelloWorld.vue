@@ -1,7 +1,7 @@
 <template>
 <div>
   <div id='container1' class="d-flex flex-column align-items-center min-vh-100">
-      <h1 class='col-sm-12 text-center'><br>Project Crashers</h1>
+      <h1 class='col-sm-12 text-center'><br>Project Crushers</h1>
       <img class='col-sm-12' src='../assets/d-11.png'>
   </div>
 </div>
