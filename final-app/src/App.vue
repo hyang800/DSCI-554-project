@@ -7,7 +7,7 @@
       <b-nav-item-dropdown id='dropdown' class='col-sm-1' text='Move to' toggle-class="nav-link-custom" aria-labelledby="dropdownMenuButton">
         <a class='dropdown-item' href='/#container1'>Home</a>
         <a class='dropdown-item' href='/#overview'>Overview</a>
-        <a class='dropdown-item' href='/#d3map'>D3 map chart</a>
+        <a class='dropdown-item' href='/#d3map'>Domestic Distribution</a>
         <a class='dropdown-item' href='/#piechart'>Pie Chart</a>
         <a class='dropdown-item' href='/#circlep'>Circle Pakcing</a>
         <a class='dropdown-item' href='/#barchart'>Bar Chart</a>
