@@ -1,7 +1,7 @@
 <template>
 <div class="d-flex flex-column align-items-center justify-content-center min-vh-100" id='piechart'>
   <div class='p-2'>
-    <h1 class="title text-center">D3 Pie Chart
+    <h1 class="title text-center">Pie Chart
       <p class="subtitle"><br>Disability Breakdown by Race</p>
       <p class="font">Calculated in the Millions</p></h1>
   </div>
