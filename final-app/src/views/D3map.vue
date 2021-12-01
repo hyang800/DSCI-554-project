@@ -2,7 +2,7 @@
 <div class="d-flex align-items-center min-vh-100" id='d3map'>
   <svg id="d3mapsvg"></svg>
   <div class = 'col-sm-4'>
-    <h1 class='text-center'>D3 Map</h1>
+    <h1 class='text-center'>Domestic Distribution</h1>
     <div class="commands">
     <input type="button" class="filter" id="Total"  value="Total">
     <input type="button" class="filter" id="val15" value="2015">
