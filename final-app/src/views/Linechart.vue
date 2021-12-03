@@ -5,8 +5,12 @@
     <svg id="linechart2" width='100' height='50'></svg>
   </div>
   <div class='col-sm-4 offset-sm-1'>
-    <h1>Responsive chart</h1>
+    <h1>Average Income for Geographic Areas</h1>
+    <br>
     <p class='text-left'>Explore and compare the average income values over the five years of data for individuals with and without disabilities as well as the average income for their geographical area.</p>
+    <p class='text-left' style='color:#E5C494;'>Non-Disabled Average Income</p>
+    <p class='text-left' style='color:#a6d854;'>Total Population Average Income</p>
+    <p class='text-left' style='color:#ffd92f;'>Disabled Average Income</p>
   </div>
 </div>
 </template>
@@ -231,7 +235,7 @@ export default {
   display: inline-block;
 }
 #linechart h1{
-  font-size: 60px;
+  font-size: 50px;
 }
 
 #linechart p{
