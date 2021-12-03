@@ -4,7 +4,7 @@
         <svg id="chart2" height='800px'></svg>
       </div>
       <div class='col-sm-4 offset-sm-1'>
-        <h1>Circle Packing
+        <h1>Population Ratios By Disability Type
         <br><br>
         <p>For each of the five major measured disability categories, zoom to compare the total
            counts of individuals that suffer from these disabilities in different sections of the
@@ -109,7 +109,7 @@ export default {
 }
 
 #circlep h1{
-  font-size: 80px;
+  font-size: 60px;
 }
 
 #circlep p{
