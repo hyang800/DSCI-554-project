@@ -6,7 +6,7 @@
     </div>
   </div>
   <div class='col-sm-4 offset-sm-1'>
-    <h1>Mapbox Map</h1>
+    <h1>Income by State</h1>
     <p class='text-left'>Annual number of people with disability who involved in the census by state from 2015 to 2019</p>
     <div class='map-overlay' id='kk'>
       <h2>The average income of disability people in each state</h2>
@@ -99,7 +99,7 @@ export default {
 }
 
 #mapbox h1{
-  font-size:80px;
+  font-size:60px;
 }
 
 #mapbox p{
